@@ -1,8 +1,6 @@
 body{
     background: red;
     background-position: center;
-    backface-visibility: visible;
-    font-size: 16px;
 }
 .test{
     color: #fff;
